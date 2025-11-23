@@ -71,7 +71,7 @@ const config = {
         title: '插件使用教程文档',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
